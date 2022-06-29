@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	route2 "github.com/codeedu/imersaofsfc2-simulator/application/route"
+	route2 "github.com/OlivierNdeye/codeDelivery/application/route"
 )
 
 func main() {
@@ -13,6 +13,6 @@ func main() {
 	}
 	route.LoadPositions()
 	stringjson, _ := route.ExportJsonPositions()
-	fmt.Println(stringjson[0])
+	fmt.Println(stringjson[1])
 
 }
