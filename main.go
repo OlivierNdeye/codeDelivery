@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	route2 "github.com/OlivierNdeye/codeDelivery.git/application/route"
+	route2 "github.com/codeedu/imersaofsfc2-simulator/application/route"
 )
 
 func main() {

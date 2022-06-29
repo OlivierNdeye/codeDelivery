@@ -1,3 +1,3 @@
-module github.com/OlivierNdeye/codeDelivery.git
+module "github.com/codeedu/imersaofsfc2-simulator"
 
 go 1.13
